@@ -11,4 +11,4 @@ published: true
 
 ## Это точно Python?
 
-В Processing используется [Jython](https://ru.wikipedia.org/wiki/Jython), реализация Python для Java. Так что да
+В Processing используется [Jython](https://ru.wikipedia.org/wiki/Jython), реализация Python для Java. Так что да, это Python.
